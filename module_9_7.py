@@ -18,5 +18,5 @@ def sum_three(first_int, second_int, third_int):
     return res
 
 
-result = sum_three(2, 3, 1005452)
+result = sum_three(2, 3, 6)
 print(result)
